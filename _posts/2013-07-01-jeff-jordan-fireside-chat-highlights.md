@@ -10,6 +10,7 @@ tags:
 
 ## Jeff Jordan on: eCommerce, Marketplaces, & Amazon
 
+
 Many thanks to [Jeff Jordan](http://jeff.a16z.com/) for sharing his great insight on marketplaces and the trajectory of eCommerce with the Balanced Community. For those of you who were unable to attend the event we've highlighted some of the key takeaways from the talk below:
 
 #### Bullish Outlook on eCommerce
